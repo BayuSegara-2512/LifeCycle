@@ -2,7 +2,7 @@
   "name": "pertemuan5_appjadwal",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://BayuSegara-2512.github.io/Fitur-Edit-Jadwal" ,
+  "homepage": "https://BayuSegara-2512.github.io/LifeCycle",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
